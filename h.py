@@ -20,6 +20,8 @@ if __name__ == "__main__":
     M = input()
     N = input()
 
+    M_len = len(M)
+
     M_int = int(M.replace("*", "0"), 2)
     N_int = int(N.replace("*", "0"), 2)
 
@@ -75,4 +77,4 @@ if __name__ == "__main__":
 
         N_int_buf = permutacao(n, N_pos, N_int)
 
-    print(format(mensagem, 'b'))
+    print(format(mensagem, 'b').zfill(M_len))

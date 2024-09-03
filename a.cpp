@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+typedef unsigned int uint;
+
 int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(0);
