@@ -4,15 +4,15 @@ Problemas disponíveis no [Codeforces](https://codeforces.com/gym/105327)
 
 ## Problemas resolvidos
 
-- [x] A (C++)
+- [x] [A](a.cpp) (C++)
 - [ ] B
 - [ ] C
 - [ ] D
-- [x] E (C)
-- [x] F (C++)
+- [x] [E](e.c) (C)
+- [x] [F](f.cpp) (C++)
 - [ ] G
-- [x] H (Python)
+- [x] [H](h.py) (Python)
 - [ ] I
 - [ ] J
-- [ ] K
-- [x] L (C)
+- [x] [K](k.cpp) (C++)
+- [x] [L](l.c) (C)
